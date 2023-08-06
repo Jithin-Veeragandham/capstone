@@ -1,0 +1,5 @@
+train:/content/yolo_data/images/train
+val:/content/yolo_data/images/val
+
+nc:7
+names:["person", "car", "truck", "bicycle", "motorcycle", "cat", "dog"]
